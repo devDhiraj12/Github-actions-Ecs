@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 1. **Clone your repository**
 
     ```sh
-    git clone https://github.com/sudarshanj01/Github-actions-Ecs.git
+    git clone https://github.com/devDhiraj12/Github-actions-Ecs.git
     cd your-repository
     ```
 
